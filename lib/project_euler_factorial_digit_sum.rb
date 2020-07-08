@@ -11,3 +11,7 @@ end
 def sum_of_digits(n)
   n.digits.sum
 end 
+
+def factorial_digit_sum(n) 
+  
+end 
