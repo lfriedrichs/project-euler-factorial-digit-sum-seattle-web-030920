@@ -7,3 +7,7 @@ def factorial(n)
   end
   output
 end 
+
+def sum_of_digits(n)
+  n.digits.sum
+end 
