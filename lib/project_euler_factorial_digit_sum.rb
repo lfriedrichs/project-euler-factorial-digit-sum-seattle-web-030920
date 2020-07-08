@@ -13,5 +13,5 @@ def sum_of_digits(n)
 end 
 
 def factorial_digit_sum(n) 
-  
+  sum_of_digits(factorial(n))
 end 
